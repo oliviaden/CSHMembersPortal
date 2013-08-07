@@ -97,10 +97,41 @@ h2 {
   text-align:center;
 }
 
+#topbar {
+  padding: 0px;
+}
+
 #view-options {
   float: right;
   position: relative;
-  top: 20px;
+  top: 15px;
+  left: -3px;
+}
+
+#popular {
+  float: left;
+  width: 50%;
+  background-color:#5ba215;
+  border: 1px solid #498211;
+  padding-left: 5px;
+  position: relative;
+  top: 15px;
+  left: 15px;
+}
+
+#popular ul {
+  position: relative;
+  top: 3px;
+}
+
+#popular ul li {
+  float: left;
+  display: inline;
+  padding-right: 5px;
+}
+
+#popular ul li h6{
+    color: white;
 }
 
 /*****ICON BOXES*****/
@@ -156,4 +187,11 @@ h2 {
   padding-top: 1.5%;
   padding-left: 40%;
   padding-bottom: 1.5%;
+}
+
+.icon-small {
+    background-image:url('../members-icons/img/members_icons_72_white.png');
+    background-size: 500%;
+    width:24px;
+    height:24px;
 }
