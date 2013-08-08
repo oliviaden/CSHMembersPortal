@@ -1,7 +1,7 @@
 CSHMembersPortal
 ================
 
-Internal CSH Portal
+Internal CSH Portal.
 
 ###Contributing###
 
