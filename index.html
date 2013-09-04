@@ -49,10 +49,8 @@
 		<div class="large-9 push-3 columns">
 			<div class="hide-for-small">
                 <div id="view-options" class="button-bar">
-                    <ul class="button-group">
-                        <li><button class="small button" onclick="saveViewPreference('icon');">Icon View</button></li>
-                        <li><button class="small button" onclick="saveViewPreference('list');">List View</button></li>
-                    </ul>
+                    
+                    <button class="small button" onclick="saveViewPreference('icon');">Switch View</button>
                 </div>
 
 				<div class="row panel" id="popular">
@@ -401,7 +399,7 @@
 			  <li class="bullet-item">
 			  		<ul class="small-block-grid-2">
 					  	<li><b>Social</b></li>
-  						<li>WED 8:00/li>
+  						<li>WED 8:00</li>
 					</ul></li>
 			  <li class="bullet-item">
 			  		<ul class="small-block-grid-2">
@@ -481,10 +479,13 @@
 
   	// Store the user's view preference in localStorage
   	function saveViewPreference(v) {
-  		view = v;
-  		if (typeof(Storage) !== "undefined") {
-  			localStorage.setItem("view", v);
-  		}
+        if (view == "list"){
+            view = "icon"
+        }
+        else{
+            view = "list"
+        }
+        localStorage.setItem("view", view)
   		loadView();
   	}
 
