@@ -50,7 +50,7 @@
 			<div class="hide-for-small">
                 <div id="view-options" class="button-bar">
                     
-                    <button class="small button" onclick="saveViewPreference('icon');">Switch View</button>
+                    <button class="small button" onclick="toggleViewPreference();">Switch View</button>
                 </div>
 
 				<div class="row panel" id="popular">
@@ -478,7 +478,7 @@
 	var view = "icon";
 
   	// Store the user's view preference in localStorage
-  	function saveViewPreference(v) {
+  	function toggleViewPreference() {
         if (view == "list"){
             view = "icon"
         }
