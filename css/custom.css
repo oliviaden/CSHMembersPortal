@@ -101,7 +101,7 @@ h2 {
     background-color: white;
 }
 
-#topbar {
+#main-header {
   padding: 20px;
   padding-top: 15px;
   margin-bottom: 15px;
@@ -122,14 +122,11 @@ h2 {
 #popular {
   float: left;
   width: 60%;
- /* background-color:#5ba215;*/
-  /*border: 1px solid #498211;*/
 }
 
 #popular ul li {
   float: left;
   display: inline;
-  margin-right: 5px;
 }
 
 #popular ul .popular:hover {
@@ -176,16 +173,19 @@ h2 {
   margin:auto;
 }
 
+.icon-small {
+    /*background-image:url('../members-icons/img/members_icons_72_white.png');
+    background-size: 500%;*/
+    width:36px;
+    height:36px;
+}
+
 .clear {
   clear: both;
 }
 
 .hidden {
   display: none;
-}
-
-.has-tip, .has-tip:hover {
-  border-bottom: none;
 }
 
 /*****FOOTER*****/
@@ -199,9 +199,3 @@ h2 {
   padding-bottom: 1.5%;
 }
 
-.icon-small {
-    /*background-image:url('../members-icons/img/members_icons_72_white.png');
-    background-size: 500%;*/
-    width:36px;
-    height:36px;
-}
