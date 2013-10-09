@@ -13,11 +13,11 @@
     url('eras/Eras Light.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 ::selection {
-  background:#5ba215;
+  background:#f50565;
   color:white;
 }
 ::-moz-selection {
-  background:#5ba215;
+  background:#f50565;
   color:white;
 }
 
@@ -55,11 +55,11 @@ html, body {
 }
 
 .button {
-  background-color:#5ba215;
-  border: 1px solid #498211;
+  background-color:#bd17a7;
+  border: 0px solid #498211;
 }
 .button:hover {
-  background-color:#498211;
+  background-color:#f50565;
 }
 .button:focus {
   background-color:#498211;
@@ -72,13 +72,13 @@ html, body {
 /*******************/
 a {
   text-decoration:none;
-  color:#5ba215;
+  color:#9d17a7;
 }
 a:hover {
-  color:#498211;
+  color:#f50565;
 }
 h2 {
-  color:#5ba215;
+  color:#3ba215;
 }
 .smallCaps {
   font-variant:small-caps;
@@ -107,12 +107,12 @@ h2 {
   margin-bottom: 15px;
   background-color: #ddd;
   border: 1px solid #ddd;
-  box-shadow: 0px 5px #5ba215;
+  box-shadow: 0px 5px #f50565;
   height: 63px;
 }
 
 .bottom-line {
-  border-bottom: 5px solid #5ba215;
+  border-bottom: 5px solid #f50565;
 }
 
 #view-options {
@@ -148,7 +148,6 @@ h2 {
   height: 125px;
   background-color: #fff;
   text-align: center;
-  color:#5ba215;
   line-height: 1.25;
   font-size: 1em;
 }
