@@ -1,3 +1,8 @@
+# Normal .gitignore stuff
+.DS_Store
+node_modules/
+
+# OH GOD WHY
 Mail/
 a.php
 alpha-2.6.9-config
