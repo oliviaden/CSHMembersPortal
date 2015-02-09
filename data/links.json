@@ -1,20 +1,20 @@
 [
-  { 
-    "name": "Info", 
+  {
+    "name": "Info",
     "links": [
-      { 
+      {
         "name": "Wiki",
-        "href": "https://wiki.csh.rit.edu", 
+        "href": "https://wiki.csh.rit.edu",
         "icon": "wiki",
         "popular": true
       },
-      { 
-        "name": "Profiles", 
-        "href": "https://members.csh.rit.edu/profiles", 
+      {
+        "name": "Profiles",
+        "href": "https://members.csh.rit.edu/profiles",
         "icon": "profiles",
         "popular": true
       },
-      { 
+      {
         "name": "Events",
         "dropdown": [
           {
@@ -53,7 +53,7 @@
         "href": "https://members.csh.rit.edu/~bencentra/csh-map",
         "icon": "world"
       }
-    ] 
+    ]
   },
   {
     "name": "Media",
@@ -132,6 +132,11 @@
         "name": "Eval Database",
         "href": "https://eval.csh.rit.edu",
         "icon": "evals"
+      },
+      {
+        "name": "Packet",
+        "href": "https://packet.csh.rit.edu",
+        "icon": "packet"
       },
       {
         "name": "Bookkake",
@@ -243,17 +248,17 @@
         "name": "CA Cert",
         "href": "http://www.csh.rit.edu/resources/CA-Certificate.crt",
         "icon": "certificate"
-      },      
+      },
       {
         "name": "Starrs",
         "href": "http://starrs.csh.rit.edu",
         "icon": "starrs"
-      },      
+      },
       {
         "name": "LDAP Admin",
         "href": "https://webldap.csh.rit.edu",
         "icon": "ldap"
-      },          
+      },
       {
         "name": "MySQL Admin",
         "href": "https://webmysql.csh.rit.edu",
@@ -263,7 +268,7 @@
         "name": "PostgreSQL Admin",
         "href": "https://webpgsql.csh.rit.edu",
         "icon": "postgresql"
-      },       
+      },
       {
         "name": "Network Info",
         "href": "https://members.csh.rit.edu/~devurandom/NetworkStats/index.php",
