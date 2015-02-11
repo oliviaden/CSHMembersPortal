@@ -1,7 +1,7 @@
 CSHMembersPortal
 ================
 
-GLORIOUS REDESIGN of the internal CSH Members Portal. Uses [bootstrap-csh](https://github.com/bencentra/bootstrap-csh) for styles and [members-icons](https://github.com/bencentra/members-icons) for icons. Made with AngularJS.
+GLORIOUS REDESIGN of the internal CSH Members Portal. Uses [bootstrap-csh](https://github.com/ComputerScienceHouse/bootstrap-csh) for styles and [members-icons](https://github.com/ComputerScienceHouse/members-icons) for icons. Made with [AngularJS](https://angularjs.org/).
 
 Contributing
 ------------
@@ -10,7 +10,7 @@ Contributing
 If you have an idea for a feature or have a bug that you'd like to fix, please fork this repo to a private repo of your own. If your contribution is more than some small tweak, create a branch. Do your thing, and then submit a pull request.
 
 ### Issue Tracking
-Please make use of github's issue tracker for this repo
+Please make use of GitHub's issue tracker for this repo. Feel free to report any bugs, features, and feedback.
 
 Updating Links
 --------------

@@ -1,6 +1,6 @@
 [submodule "bootstrap-csh"]
 	path = bootstrap-csh
-	url = https://github.com/bencentra/bootstrap-csh
+	url = https://github.com/ComputerScienceHouse/bootstrap-csh
 [submodule "members-icons"]
 	path = members-icons
-	url = https://github.com/bencentra/members-icons
+	url = https://github.com/ComputerScienceHouse/members-icons
