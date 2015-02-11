@@ -70,7 +70,7 @@
       },
       {
         "name": "Quotes Database",
-        "href": "https://members.csh.rit.edu/bash/",
+        "href": "https://quotes.csh.rit.edu",
         "icon": "quotes"
       },
       {
@@ -86,7 +86,7 @@
           },
           {
             "name": "Yearbook 2002",
-            "href": "https://members.csh.rit.edu/yearbook/2002/"
+            "href": "https://nostalgia.csh.rit.edu/yearbook/2002"
           },
           {
             "name": "Photohunt '01-'03",
@@ -169,7 +169,7 @@
       },
       {
         "name": "Webcomics",
-        "href": "./c-yank/",
+        "href": "https://c-yank.csh.rit.edu",
         "icon": "webcomic"
       },
       {
@@ -289,7 +289,7 @@
       },
       {
         "name": "History Archives",
-        "href": "https://members.csh.rit.edu/history/"
+        "href": "https://nostalgia.csh.rit.edu/history"
       },
       {
         "name": "SIH Standards",
