@@ -2,12 +2,17 @@
   {
     "name": "House",
     "day": "SUN",
-    "time": "7:00"
+    "time": "7:15"
   },
   {
-    "name": "Eval",
+    "name": "R&D",
     "day": "MON",
     "time": "8:00"
+  },
+  {
+    "name": "OpComm",
+    "day": "MON",
+    "time": "9:00"
   },
   {
     "name": "Financial",
@@ -15,33 +20,28 @@
     "time": "8:00"
   },
   {
-    "name": "History",
+    "name": "Eval",
     "day": "TUE",
     "time": "8:30"
   },
   {
-    "name": "R&D",
+    "name": "Imps",
     "day": "WED",
     "time": "8:00"
   },
   {
-    "name": "Imps",
+    "name": "History",
     "day": "WED",
-    "time": "8:30"
-  },
-  {
-    "name": "OpComm",
-    "day": "THU",
-    "time": "7:00" 
+    "time": "8:30" 
   },
   {
     "name": "Social",
     "day": "THU",
-    "time": "8:00"
+    "time": "8:30"
   },
   {
     "name": "Eboard",
     "day": "THU",
-    "time": "8:30"
+    "time": "9:00"
   }
 ]

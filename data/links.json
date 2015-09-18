@@ -178,9 +178,9 @@
         "icon": "segfault"
       },
       {
-        "name": "Mibbit IRC",
-        "href": "http://csh.rit.edu/mibbit",
-        "icon": "mibbit"
+        "name": "Slack",
+        "href": "http://slack.csh.rit.edu",
+        "icon": "slack"
       },
       {
         "name": "Drinkstats",
