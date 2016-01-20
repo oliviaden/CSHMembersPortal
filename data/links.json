@@ -112,6 +112,11 @@
         "popular": true
       },
       {
+        "name": "Soapy",
+        "href": "https://soapy.csh.rit.edu",
+        "icon": "soapy"
+      },
+      {
         "name": "WebNews",
         "href": "https://webnews.csh.rit.edu",
         "icon": "webnews",
