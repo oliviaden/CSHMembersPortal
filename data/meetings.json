@@ -10,7 +10,7 @@
     "time": "8:00"
   },
   {
-    "name": "OpComm",
+    "name": "Eval",
     "day": "MON",
     "time": "9:00"
   },
@@ -20,7 +20,7 @@
     "time": "8:00"
   },
   {
-    "name": "Eval",
+    "name": "OpComm",
     "day": "TUE",
     "time": "8:30"
   },
