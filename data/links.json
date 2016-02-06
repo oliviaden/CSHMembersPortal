@@ -67,33 +67,6 @@
         "name": "Segfault Archive",
         "href": "https://segfault.csh.rit.edu/",
         "icon": "segfault"
-      },
-      {
-        "name": "Quotes Database",
-        "href": "https://quotes.csh.rit.edu",
-        "icon": "quotes"
-      },
-      {
-        "name": "Old Pictures",
-        "dropdown": [
-          {
-            "name": "Random Pics '93-'99",
-            "href": "https://members.csh.rit.edu/randpics.1/"
-          },
-          {
-            "name": "Yearbook 2003",
-            "href": "https://members.csh.rit.edu/ybook2003/"
-          },
-          {
-            "name": "Yearbook 2002",
-            "href": "https://nostalgia.csh.rit.edu/yearbook/2002"
-          },
-          {
-            "name": "Photohunt '01-'03",
-            "href": "https://members.csh.rit.edu/photohunt/"
-          }
-        ],
-        "icon": "pictures"
       }
     ]
   },
@@ -124,7 +97,7 @@
       },
       {
         "name": "Webmail",
-        "href": "https://roundcube.csh.rit.edu",
+        "href": "https://rainloop.csh.rit.edu",
         "icon": "webmail",
         "popular": true
       },
@@ -144,11 +117,6 @@
         "icon": "packet"
       },
       {
-        "name": "Bookkake",
-        "href": "https://bookkake.csh.rit.edu",
-        "icon": "bookkake"
-      },
-      {
         "name": "User Machines",
         "href": "https://wiki.csh.rit.edu/wiki/User_services_machine",
         "icon": "machines"
@@ -166,11 +134,6 @@
           }
         ],
         "icon": "microsoft"
-      },
-      {
-        "name": "Food Portal",
-        "href": "https://members.csh.rit.edu/~mcg1sean/food/",
-        "icon": "food"
       },
       {
         "name": "Webcomics",
@@ -273,11 +236,6 @@
         "name": "PostgreSQL Admin",
         "href": "https://webpgsql.csh.rit.edu",
         "icon": "postgresql"
-      },
-      {
-        "name": "Network Info",
-        "href": "https://members.csh.rit.edu/~devurandom/NetworkStats/index.php",
-        "icon": "network"
       }
     ]
   },
@@ -287,18 +245,6 @@
       {
         "name": "CSH Code of Conduct",
         "href": "https://members.csh.rit.edu/~cshouse/coc.htm"
-      },
-      {
-        "name": "RIT Code of Conduct",
-        "href": "http://www.rit.edu/computerconduct/"
-      },
-      {
-        "name": "History Archives",
-        "href": "https://nostalgia.csh.rit.edu/history"
-      },
-      {
-        "name": "SIH Standards",
-        "href": "https://members.csh.rit.edu/docs/standards.htm"
       },
       {
         "name": "RIT Service Interruptions",
