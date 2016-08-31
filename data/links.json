@@ -34,11 +34,6 @@
         "popular": true
       },
       {
-        "name": "Floor Map",
-        "href": "https://map.csh.rit.edu",
-        "icon": "floormap"
-      },
-      {
         "name": "Constitution",
         "href": "https://github.com/ComputerScienceHouse/Constitution",
         "icon": "constitution"
@@ -149,11 +144,6 @@
         "name": "Slack",
         "href": "http://slack.csh.rit.edu",
         "icon": "slack"
-      },
-      {
-        "name": "Drinkstats",
-        "href": "http://drinkstats.csh.rit.edu",
-        "icon": "drinkstats"
       }
     ]
   },
@@ -212,11 +202,6 @@
   {
     "name": "Sysadmin",
     "links": [
-      {
-        "name": "CA Cert",
-        "href": "http://www.csh.rit.edu/resources/CA-Certificate.crt",
-        "icon": "certificate"
-      },
       {
         "name": "Starrs",
         "href": "http://starrs.csh.rit.edu",
