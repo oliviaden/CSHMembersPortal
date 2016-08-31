@@ -23,20 +23,15 @@
           },
           {
             "name": "XML",
-            "href": "http://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic"
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic"
           },
           {
             "name": "iCal",
-            "href": "http://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
           }
         ],
         "icon": "events",
         "popular": true
-      },
-      {
-        "name": "Floor Map",
-        "href": "https://map.csh.rit.edu",
-        "icon": "floormap"
       },
       {
         "name": "Constitution",
@@ -75,7 +70,7 @@
     "links": [
       {
         "name": "Schedule Maker",
-        "href": "http://schedule.csh.rit.edu/",
+        "href": "https://schedule.csh.rit.edu/",
         "icon": "schedule"
       },
       {
@@ -126,7 +121,7 @@
         "dropdown": [
           {
             "name": "DreamSpark",
-            "href": "http://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
+            "href": "https://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
           },
           {
             "name": "Admin",
@@ -147,13 +142,8 @@
       },
       {
         "name": "Slack",
-        "href": "http://slack.csh.rit.edu",
+        "href": "https://slack.csh.rit.edu",
         "icon": "slack"
-      },
-      {
-        "name": "Drinkstats",
-        "href": "http://drinkstats.csh.rit.edu",
-        "icon": "drinkstats"
       }
     ]
   },
@@ -194,7 +184,7 @@
       },
       {
         "name": "LinkedIn",
-        "href": "http://www.linkedin.com/groups?gid=971",
+        "href": "https://www.linkedin.com/groups?gid=971",
         "icon": "linkedin"
       },
       {
@@ -213,13 +203,8 @@
     "name": "Sysadmin",
     "links": [
       {
-        "name": "CA Cert",
-        "href": "http://www.csh.rit.edu/resources/CA-Certificate.crt",
-        "icon": "certificate"
-      },
-      {
         "name": "Starrs",
-        "href": "http://starrs.csh.rit.edu",
+        "href": "https://starrs.csh.rit.edu",
         "icon": "starrs"
       },
       {
@@ -248,7 +233,7 @@
       },
       {
         "name": "RIT Service Interruptions",
-        "href": "http://www.rit.edu/fa/facilities/content/service-interruptions"
+        "href": "https://www.rit.edu/fa/facilities/content/service-interruptions"
       },
       {
         "name": "CSH Floor Plan",
