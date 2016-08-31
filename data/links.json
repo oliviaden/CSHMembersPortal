@@ -23,11 +23,11 @@
           },
           {
             "name": "XML",
-            "href": "http://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic"
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic"
           },
           {
             "name": "iCal",
-            "href": "http://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
           }
         ],
         "icon": "events",
@@ -70,7 +70,7 @@
     "links": [
       {
         "name": "Schedule Maker",
-        "href": "http://schedule.csh.rit.edu/",
+        "href": "https://schedule.csh.rit.edu/",
         "icon": "schedule"
       },
       {
@@ -121,7 +121,7 @@
         "dropdown": [
           {
             "name": "DreamSpark",
-            "href": "http://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
+            "href": "https://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
           },
           {
             "name": "Admin",
@@ -142,7 +142,7 @@
       },
       {
         "name": "Slack",
-        "href": "http://slack.csh.rit.edu",
+        "href": "https://slack.csh.rit.edu",
         "icon": "slack"
       }
     ]
@@ -184,7 +184,7 @@
       },
       {
         "name": "LinkedIn",
-        "href": "http://www.linkedin.com/groups?gid=971",
+        "href": "https://www.linkedin.com/groups?gid=971",
         "icon": "linkedin"
       },
       {
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "Starrs",
-        "href": "http://starrs.csh.rit.edu",
+        "href": "https://starrs.csh.rit.edu",
         "icon": "starrs"
       },
       {
@@ -233,7 +233,7 @@
       },
       {
         "name": "RIT Service Interruptions",
-        "href": "http://www.rit.edu/fa/facilities/content/service-interruptions"
+        "href": "https://www.rit.edu/fa/facilities/content/service-interruptions"
       },
       {
         "name": "CSH Floor Plan",
