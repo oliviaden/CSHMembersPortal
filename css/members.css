@@ -48,3 +48,10 @@ a.icon-box {
   padding: 10px;
 }
 
+a {
+  color: #727272;
+}
+
+.settings-panel {
+  height: 55px;
+}

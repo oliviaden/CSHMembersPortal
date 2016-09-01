@@ -3,12 +3,6 @@
     "name": "Info",
     "links": [
       {
-        "name": "Wiki",
-        "href": "https://wiki.csh.rit.edu",
-        "icon": "wiki",
-        "popular": true
-      },
-      {
         "name": "Profiles",
         "href": "https://profiles.csh.rit.edu",
         "icon": "profiles",
@@ -47,12 +41,29 @@
         "name": "Alumni Map",
         "href": "https://alumnimap.csh.rit.edu",
         "icon": "world"
+      },
+      {
+        "name": "Discourse",
+        "href": "https://discourse.csh.rit.edu",
+        "icon": "discourse",
+        "popular": true
+      },
+      {
+        "name": "WebNews",
+        "href": "https://webnews.csh.rit.edu",
+        "icon": "webnews",
+        "popular": true
       }
     ]
   },
   {
     "name": "Media",
     "links": [
+      {
+        "name": "Wiki",
+        "href": "https://wiki.csh.rit.edu",
+        "icon": "wiki"
+      },
       {
         "name": "Gallery",
         "href": "https://gallery.csh.rit.edu/main.php",
@@ -83,12 +94,6 @@
         "name": "Soapy",
         "href": "https://soapy.csh.rit.edu",
         "icon": "soapy"
-      },
-      {
-        "name": "WebNews",
-        "href": "https://webnews.csh.rit.edu",
-        "icon": "webnews",
-        "popular": true
       },
       {
         "name": "Webmail",
@@ -138,7 +143,7 @@
       {
         "name": "JIRA",
         "href": "https://jira.csh.rit.edu",
-        "icon": "segfault"
+        "icon": "bug"
       },
       {
         "name": "Slack",
@@ -191,19 +196,14 @@
         "name": "GitHub",
         "href": "https://github.com/ComputerScienceHouse",
         "icon": "github"
-      },
-      {
-        "name": "CoderWall",
-        "href": "https://coderwall.com/team/computer-science-house",
-        "icon": "coderwall"
       }
     ]
   },
   {
-    "name": "Sysadmin",
+    "name": "Systems Admin",
     "links": [
       {
-        "name": "Starrs",
+        "name": "STARRS",
         "href": "https://starrs.csh.rit.edu",
         "icon": "starrs"
       },
