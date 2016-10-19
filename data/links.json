@@ -28,6 +28,11 @@
         "popular": true
       },
       {
+        "name": "Floor Map",
+        "href": "https://map.csh.rit.edu",
+        "icon": "floormap"
+      },
+      {
         "name": "Constitution",
         "href": "https://github.com/ComputerScienceHouse/Constitution",
         "icon": "constitution"
