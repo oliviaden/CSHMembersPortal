@@ -38,7 +38,7 @@ Here's what a normal link looks like:
 ]
 ```
 
-The "icon" property maps to the icon's class name from `members-icons`. For example, "wiki" becomes `.icon-wiki`.
+The "icon" property maps to the icon's class name from [Icons8](https://icons8.github.io/welovesvg/). For example, `material:cloud` will render a cloud icon.
 
 The "popular" property is optional. If included and set to `true`, the link will appear in the Popular section.
 

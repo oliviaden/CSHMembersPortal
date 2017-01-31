@@ -5,7 +5,7 @@
       {
         "name": "Profiles",
         "href": "https://profiles.csh.rit.edu",
-        "icon": "profiles",
+        "icon": "material:contacts",
         "popular": true
       },
       {
@@ -24,39 +24,39 @@
             "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
           }
         ],
-        "icon": "events",
+        "icon": "material:event",
         "popular": true
       },
       {
         "name": "Floor Map",
         "href": "https://map.csh.rit.edu",
-        "icon": "floormap"
+        "icon": "material:map"
       },
       {
         "name": "Constitution",
         "href": "https://github.com/ComputerScienceHouse/Constitution",
-        "icon": "constitution"
+        "icon": "material:receipt"
       },
       {
         "name": "Spending",
         "href": "https://spending.csh.rit.edu",
-        "icon": "spending"
+        "icon": "material:trending-down"
       },
       {
         "name": "Alumni Map",
         "href": "https://alumnimap.csh.rit.edu",
-        "icon": "world"
+        "icon": "material:language"
       },
       {
         "name": "Discourse",
         "href": "https://discourse.csh.rit.edu",
-        "icon": "discourse",
+        "icon": "material:forum",
         "popular": true
       },
       {
         "name": "WebNews",
         "href": "https://webnews.csh.rit.edu",
-        "icon": "webnews",
+        "icon": "material:chat-bubble-outline",
         "popular": true
       }
     ]
@@ -67,17 +67,17 @@
       {
         "name": "Wiki",
         "href": "https://wiki.csh.rit.edu",
-        "icon": "wiki"
+        "icon": "material:info-outline"
       },
       {
         "name": "Gallery",
         "href": "https://gallery.csh.rit.edu/main.php",
-        "icon": "gallery"
+        "icon": "material:photo"
       },
       {
         "name": "Segfault Archive",
         "href": "https://segfault.csh.rit.edu/",
-        "icon": "segfault"
+        "icon": "material:layers"
       }
     ]
   },
@@ -87,50 +87,50 @@
       {
         "name": "Schedule Maker",
         "href": "https://schedule.csh.rit.edu/",
-        "icon": "schedule"
+        "icon": "material:schedule"
       },
       {
         "name": "WebDrink",
         "href": "https://webdrink.csh.rit.edu",
-        "icon": "drink",
+        "icon": "material:local-drink",
         "popular": true
       },
       {
         "name": "Soapy",
         "href": "https://soapy.csh.rit.edu",
-        "icon": "soapy"
+        "icon": "material:radio"
       },
       {
         "name": "Webmail",
         "href": "https://rainloop.csh.rit.edu",
-        "icon": "webmail",
+        "icon": "material:mail",
         "popular": true
       },
       {
         "name": "Mailing Lists",
         "href": "https://lists.csh.rit.edu",
-        "icon": "lists"
+        "icon": "material:markunread-mailbox"
       },
       {
         "name": "Eval Database",
         "href": "https://eval.csh.rit.edu",
-        "icon": "evals"
+        "icon": "material:group-add"
       },
       {
         "name": "Packet",
         "href": "https://packet.csh.rit.edu",
-        "icon": "packet"
+        "icon": "material:check-box"
       },
       {
         "name": "User Machines",
         "href": "https://wiki.csh.rit.edu/wiki/User_services_machine",
-        "icon": "machines"
+        "icon": "material:computer"
       },
       {
-        "name": "Imagine",
+        "name": "Microsoft Imagine",
         "dropdown": [
           {
-            "name": "Imagine",
+            "name": "Download Portal",
             "href": "https://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
           },
           {
@@ -138,22 +138,22 @@
             "href": "https://e5.onthehub.com/Admin/Security/Signin.aspx?rurl=%2fadmin%2fDefault.aspx"
           }
         ],
-        "icon": "microsoft"
+        "icon": "material:cloud-download"
       },
       {
         "name": "Webcomics",
         "href": "https://c-yank.csh.rit.edu",
-        "icon": "webcomic"
+        "icon": "material:view-compact"
       },
       {
         "name": "JIRA",
         "href": "https://jira.csh.rit.edu",
-        "icon": "bug"
+        "icon": "material:bug-report"
       },
       {
         "name": "Slack",
         "href": "https://slack.csh.rit.edu",
-        "icon": "slack"
+        "icon": "material:chat"
       }
     ]
   },
@@ -172,7 +172,7 @@
             "href": "https://www.facebook.com/groups/16764593277/"
           }
         ],
-        "icon": "facebook"
+        "icon": "material:face"
       },
       {
         "name": "Twitter",
@@ -190,17 +190,17 @@
             "href": "https://twitter.com/FUMNCommittee"
           }
         ],
-        "icon": "twitter"
+        "icon": "material:chat-bubble"
       },
       {
         "name": "LinkedIn",
         "href": "https://www.linkedin.com/groups?gid=971",
-        "icon": "linkedin"
+        "icon": "material:card-travel"
       },
       {
         "name": "GitHub",
         "href": "https://github.com/ComputerScienceHouse",
-        "icon": "github"
+        "icon": "material:code"
       }
     ]
   },
@@ -208,24 +208,29 @@
     "name": "Systems Admin",
     "links": [
       {
+        "name": "Password Reset",
+        "href": "https://password.csh.rit.edu",
+        "icon": "material:lock"
+      },
+      {
         "name": "STARRS",
         "href": "https://starrs.csh.rit.edu",
-        "icon": "starrs"
+        "icon": "material:signal-wifi-4-bar-lock"
       },
       {
         "name": "LDAP Admin",
         "href": "https://webldap.csh.rit.edu",
-        "icon": "ldap"
+        "icon": "material:verified-user"
       },
       {
         "name": "MySQL Admin",
         "href": "https://webmysql.csh.rit.edu",
-        "icon": "mysql"
+        "icon": "material:storage"
       },
       {
         "name": "PostgreSQL Admin",
         "href": "https://webpgsql.csh.rit.edu",
-        "icon": "postgresql"
+        "icon": "material:storage"
       }
     ]
   },
