@@ -1,7 +1,7 @@
 CSHMembersPortal
 ================
 
-GLORIOUS REDESIGN of the internal CSH Members Portal. Uses [bootstrap-csh](https://github.com/ComputerScienceHouse/bootstrap-csh) for styles and [members-icons](https://github.com/ComputerScienceHouse/members-icons) for icons. Made with [AngularJS](https://angularjs.org/).
+GLORIOUS REDESIGN of the internal CSH Members Portal. Uses [bootstrap-csh](https://github.com/ComputerScienceHouse/bootstrap-csh) for styles and [Icons8](https://icons8.github.io/welovesvg/) for icons. Made with [AngularJS](https://angularjs.org/).
 
 Contributing
 ------------
@@ -28,7 +28,7 @@ Here's what a normal link looks like:
         	{
         		"name": "Wiki",
         		"href": "https://wiki.csh.rit.edu",
-        		"icon": "wiki",
+        		"icon": "zocial:wikipedia",
         		"popular": true
         	},
         	...
@@ -66,7 +66,7 @@ Some entries may link to multiple sites. Here's how to add a link with a dropdow
 		            	"href": "http://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
 		          	}
 		        ],
-		        "icon": "events",
+		        "icon": "material:events",
 		        "popular": true
         	...
     	]
