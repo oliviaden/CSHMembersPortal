@@ -5,7 +5,7 @@
       {
         "name": "Profiles",
         "href": "https://profiles.csh.rit.edu",
-        "icon": "material:contacts",
+        "icon": "material:account-circle",
         "popular": true
       },
       {
@@ -67,7 +67,7 @@
       {
         "name": "Wiki",
         "href": "https://wiki.csh.rit.edu",
-        "icon": "material:info-outline"
+        "icon": "zocial:wikipedia"
       },
       {
         "name": "Gallery",
@@ -103,13 +103,13 @@
       {
         "name": "Webmail",
         "href": "https://rainloop.csh.rit.edu",
-        "icon": "material:mail",
+        "icon": "material:send",
         "popular": true
       },
       {
         "name": "Mailing Lists",
         "href": "https://lists.csh.rit.edu",
-        "icon": "material:markunread-mailbox"
+        "icon": "material:mail"
       },
       {
         "name": "Eval Database",
@@ -138,7 +138,7 @@
             "href": "https://e5.onthehub.com/Admin/Security/Signin.aspx?rurl=%2fadmin%2fDefault.aspx"
           }
         ],
-        "icon": "material:cloud-download"
+        "icon": "brandico:win8"
       },
       {
         "name": "Webcomics",
@@ -172,7 +172,7 @@
             "href": "https://www.facebook.com/groups/16764593277/"
           }
         ],
-        "icon": "material:face"
+        "icon": "brandico:facebook-rect"
       },
       {
         "name": "Twitter",
@@ -190,17 +190,17 @@
             "href": "https://twitter.com/FUMNCommittee"
           }
         ],
-        "icon": "material:chat-bubble"
+        "icon": "brandico:twitter-bird"
       },
       {
         "name": "LinkedIn",
         "href": "https://www.linkedin.com/groups?gid=971",
-        "icon": "material:card-travel"
+        "icon": "brandico:linkedin"
       },
       {
         "name": "GitHub",
         "href": "https://github.com/ComputerScienceHouse",
-        "icon": "material:code"
+        "icon": "icomoon:github"
       }
     ]
   },
