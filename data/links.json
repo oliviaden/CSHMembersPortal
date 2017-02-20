@@ -92,8 +92,7 @@
       {
         "name": "WebDrink",
         "href": "https://webdrink.csh.rit.edu",
-        "icon": "material:local-drink",
-        "popular": true
+        "icon": "material:local-drink"
       },
       {
         "name": "Soapy",
@@ -152,8 +151,18 @@
       },
       {
         "name": "Slack",
-        "href": "https://slack.csh.rit.edu",
-        "icon": "material:chat"
+        "dropdown": [
+          {
+            "name": "Web Client",
+            "href": "https://cshrit.slack.com"
+          },
+          {
+            "name": "Request an Invite",
+            "href": "https://cshrit.signup.team"
+          }
+       ],
+        "icon": "fa:slack",
+        "popular": true
       }
     ]
   },
