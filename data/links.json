@@ -145,11 +145,6 @@
         "icon": "material:view-compact"
       },
       {
-        "name": "JIRA",
-        "href": "https://jira.csh.rit.edu",
-        "icon": "material:bug-report"
-      },
-      {
         "name": "Slack",
         "dropdown": [
           {
