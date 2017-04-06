@@ -1,4 +1,4 @@
-var app = angular.module("members", []);
+var app = angular.module("members", ['webicon']);
 
 app.directive("navbar", function() {
   return {
