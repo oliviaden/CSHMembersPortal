@@ -95,13 +95,8 @@
         "icon": "material:local-drink"
       },
       {
-        "name": "Soapy",
-        "href": "https://soapy.csh.rit.edu",
-        "icon": "material:radio"
-      },
-      {
         "name": "Webmail",
-        "href": "https://rainloop.csh.rit.edu",
+        "href": "https://webmail.csh.rit.edu",
         "icon": "material:send",
         "popular": true
       },
