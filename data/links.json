@@ -121,20 +121,6 @@
         "icon": "material:computer"
       },
       {
-        "name": "Microsoft Imagine",
-        "dropdown": [
-          {
-            "name": "Download Portal",
-            "href": "https://e5.onthehub.com/d.ashx?s=nkh8poy6f2"
-          },
-          {
-            "name": "Admin",
-            "href": "https://e5.onthehub.com/Admin/Security/Signin.aspx?rurl=%2fadmin%2fDefault.aspx"
-          }
-        ],
-        "icon": "brandico:win8"
-      },
-      {
         "name": "Webcomics",
         "href": "https://c-yank.csh.rit.edu",
         "icon": "material:view-compact"
