@@ -78,6 +78,11 @@
         "name": "Segfault Archive",
         "href": "https://segfault.csh.rit.edu/",
         "icon": "material:layers"
+      },
+      {
+        "name": "Quotefault",
+        "href": "https://quotefault.csh.rit.edu/",
+        "icon": "foundation:comment-quotes"
       }
     ]
   },
