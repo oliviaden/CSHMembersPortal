@@ -35,6 +35,11 @@
     "time": "7:00"
   },
   {
+    "name": "PR",
+    "day": "WED",
+    "time": "7:30"
+  },
+  {
     "name": "OpComm",
     "day": "WED",
     "time": "8:00"
