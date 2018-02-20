@@ -213,6 +213,11 @@
         "icon": "material:signal-wifi-4-bar-lock"
       },
       {
+        "name": "VM Management",
+        "href": "https://proxstar.csh.rit.edu",
+        "icon": "material:dvr"
+      },
+      {
         "name": "LDAP Admin",
         "href": "https://webldap.csh.rit.edu",
         "icon": "material:verified-user"
