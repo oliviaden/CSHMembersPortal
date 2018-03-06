@@ -42,7 +42,7 @@
           </div>
           <!-- Popular -->
           <div class="card bg-light mb-3">
-            <div class="card-header bg-primary text-white"><h5>Popular</h5></div>
+            <h5 class="card-header bg-primary text-white">Popular</h5>
             <div class="card-body">
               <div class="row">
                 <div class="col-md-2 col-sm-4 col-6 center" data-ng-repeat="link in popular">
@@ -73,18 +73,14 @@
           </div>
           <!-- Plug -->
           <div class="card bg-light mb-3">
-            <div class="card-header bg-primary">
-              <h5 class="card-title"><a class="text-white" href="https://plug.csh.rit.edu">Advertisements by CSH: Plug</a></h5>
-            </div>
+            <h5 class="card-header bg-primary"><a class="text-white" href="https://plug.csh.rit.edu">Advertisements by CSH: Plug</a></h5>
             <div class="card-body center">
               <a href="https://plug.csh.rit.edu"><img src="https://plug.csh.rit.edu/data" style="width: 100%"></a>
             </div>
           </div>
           <!-- Links -->
           <div class="card mb-3" data-ng-repeat="section in sections">
-            <div class="card-header bg-primary text-white">
-              <h5>{{ section.name }}</h5>
-            </div>
+            <h5 class="card-header bg-primary text-white">{{ section.name }}</h5>
             <div class="card-body">
               <div class="row">
                 <div class="col-md-3 col-sm-3 col-6" data-ng-repeat="link in section.links" data-ng-class="(showIcons ? 'center' : '')">
@@ -115,7 +111,7 @@
           </div>
         </div>
         <!-- Meeting Times -->
-        <meetings data="meetings"></meetings>
+        <meetings data="meetings" class="col-md-3 col-sm-12"></meetings>
       </div>
     </div>
   </body>
