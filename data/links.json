@@ -48,6 +48,11 @@
         "icon": "material:language"
       },
       {
+        "name": "Conditional",
+        "href": "https://eval.csh.rit.edu",
+        "icon": "material:group-add"
+      },
+      {
         "name": "Discourse",
         "href": "https://discourse.csh.rit.edu",
         "icon": "material:forum",
@@ -67,7 +72,7 @@
         "name": "Gallery",
         "href": "https://gallery.csh.rit.edu",
         "icon": "material:photo",
-	"popular": true
+        "popular": true
       },
       {
         "name": "Segfault Archive",
@@ -106,11 +111,6 @@
         "icon": "material:mail"
       },
       {
-        "name": "Eval Database",
-        "href": "https://eval.csh.rit.edu",
-        "icon": "material:group-add"
-      },
-      {
         "name": "Packet",
         "href": "https://packet.csh.rit.edu",
         "icon": "material:check-box"
@@ -136,14 +136,14 @@
             "name": "Request an Invite",
             "href": "https://cshrit.signup.team"
           }
-       ],
+        ],
         "icon": "fa:slack",
         "popular": true
       },
       {
-          "name": "Ballots",
-          "href": "https://ballots.csh.rit.edu",
-          "icon": "material:content-paste"
+        "name": "Ballots",
+        "href": "https://ballots.csh.rit.edu",
+        "icon": "material:content-paste"
       }
     ]
   },
