@@ -48,7 +48,7 @@
         "icon": "material:language"
       },
       {
-        "name": "Eval Database",
+        "name": "Conditional",
         "href": "https://eval.csh.rit.edu",
         "icon": "material:group-add"
       },
