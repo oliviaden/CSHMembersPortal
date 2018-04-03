@@ -83,6 +83,11 @@
         "name": "Quotefault",
         "href": "https://quotefault.csh.rit.edu/",
         "icon": "foundation:comment-quotes"
+      },
+      {
+        "name": "Game Night",
+        "href": "https://game-night.csh.rit.edu",
+        "icon": "foundation:die-three"
       }
     ]
   },
