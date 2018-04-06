@@ -18,6 +18,13 @@ app.directive("meetings", function() {
 });
 
 app.controller("MembersController", ['$scope', '$http', function($scope, $http) {
+  
+  // Pull the user's sso info and grab their theme
+  $http.get("https://members.csh.rit.edu/sso/redirect?info=json").success(function (response) {
+    $scope.cdn = "https://themeswitcher.csh.rit.edu/api/" + response.id_token.preferred_username;
+  }).error(function (error) { 
+    $scope.cdn = "https://s3.csh.rit.edu/csh-material-bootstrap/4.0.0/dist/csh-material-bootstrap.min.css";
+  });
 
   // Toggle showing the icons
   $scope.saveIconSetting = function() {
