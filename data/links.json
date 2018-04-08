@@ -144,6 +144,11 @@
         "name": "Ballots",
         "href": "https://ballots.csh.rit.edu",
         "icon": "material:content-paste"
+      },
+      {
+        "name": "Theme Switcher",
+        "href": "https://themeswitcher.csh.rit.edu",
+        "icon": "material:filter"
       }
     ]
   },
