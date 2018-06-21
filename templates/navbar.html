@@ -1,19 +1,25 @@
 <!-- Navbar -->
-<nav class="navbar fixed-top navbar-expand navbar-expand-lg navbar-dark bg-primary" style="padding: 0 0">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary justify-content-center">
   <div class="container">
     <a class="navbar-brand" href="#">Members</a>
-    <div class="collapse navbar-collapse align-center" id="navbarColor01">
-      <ul class="nav navbar-nav ml-auto my-2">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#nav-responsive">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- Responsive Collapse -->
+    <div class="collapse navbar-collapse" id="nav-responsive">
+      <ul class="navbar-nav mr-auto">
         <li class="nav-item my-auto">
           <a class="nav-link btn-secondary bg-primary text-white" style="color: #fff" href="https://csh.rit.edu">Public Site</a>
         </li>
+      </ul>
+      <ul class="nav navbar-nav ml-auto">
         <!-- Dropdown -->
         <li class="nav-item navbar-user dropdown" >
           <a class="nav-link dropdown-toggle bg-primary text-white mt-2" data-toggle="dropdown" href="#" id="nav-drop" aria-expanded="false">
             <img ng-src="{{profile}}"> {{ name }}
           </a>
           <div class="dropdown-menu" aria-labelledby="nav-drop">
-            <div id="show-icons" class="float-right checkbox dropdown-item">
+            <div id="show-icons" class="checkbox dropdown-item">
               <label><input type="checkbox" ng-model="showIcons" ng-click="saveIconSetting()" /> Show Icons</label>
             </div>
             <div class="dropdown-divider"></div>
