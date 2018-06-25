@@ -116,6 +116,11 @@
         "icon": "material:mail"
       },
       {
+        "name": "Account Self-Service",
+        "href": "https://account.csh.rit.edu/",
+        "icon": "material:settings"
+      },
+      {
         "name": "Packet",
         "href": "https://packet.csh.rit.edu",
         "icon": "material:check-box"
@@ -132,16 +137,7 @@
       },
       {
         "name": "Slack",
-        "dropdown": [
-          {
-            "name": "Web Client",
-            "href": "https://cshrit.slack.com"
-          },
-          {
-            "name": "Request an Invite",
-            "href": "https://cshrit.signup.team"
-          }
-        ],
+        "href": "https://cshrit.slack.com",
         "icon": "fa:slack",
         "popular": true
       },
