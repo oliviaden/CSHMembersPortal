@@ -150,6 +150,11 @@
         "name": "Theme Switcher",
         "href": "https://themeswitcher.csh.rit.edu",
         "icon": "material:filter"
+      },
+      {
+        "name": "Ride Board",
+        "href": "https://rideboard.csh.rit.edu/",
+        "icon": "material:directions-car"
       }
     ]
   },
