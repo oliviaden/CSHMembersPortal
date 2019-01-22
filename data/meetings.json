@@ -15,7 +15,7 @@
     "time": "8:00"
   },
   {
-    "name": "Eval",
+    "name": "Evals",
     "day": "MON",
     "time": "8:30"
   },
@@ -28,11 +28,6 @@
     "name": "R&D",
     "day": "TUE",
     "time": "8:00"
-  },
-  {
-    "name": "Smartroom Ad-Hoc",
-    "day": "TUE",
-    "time": "10:00"
   },
   {
     "name": "History",
