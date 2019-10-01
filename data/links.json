@@ -155,6 +155,11 @@
         "name": "Ride Board",
         "href": "https://rideboard.csh.rit.edu/",
         "icon": "material:directions-car"
+      },
+      {
+        "name": "Bucket",
+        "href": "https://bucket.csh.rit.edu",
+        "icon": "material:folder-special"
       }
     ]
   },
