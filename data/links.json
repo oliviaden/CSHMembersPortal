@@ -215,7 +215,7 @@
     "links": [
       {
         "name": "Password Reset",
-        "href": "https://password.csh.rit.edu",
+        "href": "https://account.csh.rit.edu/admin",
         "icon": "material:lock"
       },
       {
@@ -230,7 +230,7 @@
       },
       {
         "name": "LDAP Admin",
-        "href": "https://webldap.csh.rit.edu",
+        "href": "https://ipa10-nrh.csh.rit.edu",
         "icon": "material:verified-user"
       },
       {
