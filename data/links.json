@@ -126,6 +126,11 @@
         "icon": "material:check-box"
       },
       {
+          "name": "HAROLD Audio Selector",
+          "href": "https://audiophiler.csh.rit.edu",
+          "icon": "material:music-note"
+      },
+      {
         "name": "User Machines",
         "href": "https://wiki.csh.rit.edu/wiki/User_services_machine",
         "icon": "material:computer"
