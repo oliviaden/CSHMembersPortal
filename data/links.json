@@ -234,6 +234,11 @@
         "icon": "material:dvr"
       },
       {
+        "name": "Openshift/OKD",
+        "href": "https://console.okd4.csh.rit.edu",
+        "icon": "material:directions-boat"
+      },
+      {
         "name": "LDAP Admin",
         "href": "https://ipa10-nrh.csh.rit.edu",
         "icon": "material:verified-user"
