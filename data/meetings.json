@@ -5,11 +5,6 @@
     "time": "7:15"
   },
   {
-    "name": "PR",
-    "day": "MON",
-    "time": "6:00"
-  },
-  {
     "name": "Financial",
     "day": "MON",
     "time": "7:00"
@@ -20,6 +15,21 @@
     "time": "7:00"
   },
   {
+    "name": "History",
+    "day": "MON",
+    "time": "8:00"
+  },
+  {
+    "name": "History Discussion",
+    "day": "MON",
+    "time": "8:30"
+  },
+  {
+    "name": "Social",
+    "day": "TUE",
+    "time": "6:30"
+  },
+  {
     "name": "Imps",
     "day": "TUE",
     "time": "7:00"
@@ -27,22 +37,12 @@
   {
     "name": "Upgrade Committee",
     "day": "TUE",
-    "time": "8:00"
+    "time": "7:00"
   },
   {
-    "name": "R&D",
-    "day": "TUE",
-    "time": "9:00"
-  },
-  {
-    "name": "Social",
+    "name": "PR",
     "day": "WED",
-    "time": "7:30"
-  },
-  {
-    "name": "OpComm",
-    "day": "WED",
-    "time": "8:00"
+    "time": "8:30"
   },
   {
     "name": "Eboard",
@@ -50,18 +50,13 @@
     "time": "9:00"
   },
   {
-    "name": "History",
+    "name": "R&D",
     "day": "THU",
     "time": "7:00"
   },
   {
-    "name": "History Discussion",
+    "name": "OpComm",
     "day": "THU",
-    "time": "7:30"
-  },
-  {
-    "name": "Imagine GDD",
-    "day": "THU",
-    "time": "9:00"
+    "time": "8:00"
   }
 ]
