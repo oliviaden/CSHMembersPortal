@@ -7,42 +7,47 @@
   {
     "name": "Financial",
     "day": "MON",
-    "time": "7:00"
+    "time": "6:00"
   },
   {
     "name": "Evals",
     "day": "MON",
-    "time": "7:00"
-  },
-  {
-    "name": "History",
-    "day": "MON",
-    "time": "8:00"
-  },
-  {
-    "name": "History Discussion",
-    "day": "MON",
-    "time": "8:30"
-  },
-  {
-    "name": "Social",
-    "day": "TUE",
-    "time": "6:30"
+    "time": "6:00"
   },
   {
     "name": "Imps",
-    "day": "TUE",
+    "day": "MON",
     "time": "7:00"
   },
   {
     "name": "Upgrade Committee",
-    "day": "TUE",
+    "day": "MON",
     "time": "7:00"
   },
   {
+    "name": "Imagine RIT",
+    "day": "MON",
+    "time": "8:00"
+  },
+  {
     "name": "PR",
-    "day": "WED",
+    "day": "TUE",
+    "time": "7:30"
+  },
+  {
+    "name": "History",
+    "day": "TUE",
+    "time": "8:00"
+  },
+  {
+    "name": "History Discussion",
+    "day": "TUE",
     "time": "8:30"
+  },
+  {
+    "name": "Social",
+    "day": "WED",
+    "time": "7:30"
   },
   {
     "name": "Eboard",
