@@ -167,7 +167,7 @@
         "icon": "material:folder-special"
       },
       {
-        "name": "External Accounts",
+        "name": "External Accounts Connector",
         "href": "https://eac.csh.rit.edu",
         "icon": "material:extension"
       }
