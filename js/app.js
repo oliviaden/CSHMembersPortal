@@ -7,10 +7,10 @@ app.directive("navbar", function() {
   }
 });
 
-app.directive("meetings", function() {
+app.directive("side", function() {
   return {
     restrict: "E",
-    templateUrl: "templates/meetings.html",
+    templateUrl: "templates/side.html",
     scope: {
       meetings: "=data"
     }
