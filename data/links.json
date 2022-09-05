@@ -257,6 +257,11 @@
         "name": "PostgreSQL Admin",
         "href": "https://webpgsql.csh.rit.edu",
         "icon": "material:storage"
+      },
+      {
+        "name": "Weird Clock",
+        "href": "https://weird-clock.csh.rit.edu",
+        "icon": "color-icons:trademark"
       }
     ]
   },
