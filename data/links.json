@@ -162,6 +162,11 @@
         "icon": "material:directions-car"
       },
       {
+        "name": "LetMeIn",
+        "href": "https://letmein.csh.rit.edu",
+        "icon": "material:notifications"
+      },
+      {
         "name": "Bucket",
         "href": "https://bucket.csh.rit.edu",
         "icon": "material:folder-special"
