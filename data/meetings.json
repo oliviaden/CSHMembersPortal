@@ -25,6 +25,11 @@
     "time": "6:30"
   },
   {
+    "name": "Devcade",
+    "day": "TUE",
+    "time": "8:00"
+  },
+  {
     "name": "IMPS",
     "day": "WED",
     "time": "6:00"
@@ -43,6 +48,11 @@
     "name": "History Discussion",
     "day": "WED",
     "time": "8:00"
+  },
+  {
+    "name": "ImagineRIT",
+    "day": "WED",
+    "time": "9:00"
   },
   {
     "name": "Social",
