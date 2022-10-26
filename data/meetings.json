@@ -5,57 +5,57 @@
     "time": "7:15"
   },
   {
+    "name": "R&D",
+    "day": "MON",
+    "time": "7:00"
+  },
+  {
     "name": "Financial",
     "day": "MON",
-    "time": "6:00"
+    "time": "8:30"
   },
   {
-    "name": "Evals",
+    "name": "Eboard",
     "day": "MON",
-    "time": "6:00"
-  },
-  {
-    "name": "Imps",
-    "day": "MON",
-    "time": "7:00"
-  },
-  {
-    "name": "Upgrade Committee",
-    "day": "MON",
-    "time": "7:00"
-  },
-  {
-    "name": "Imagine RIT",
-    "day": "MON",
-    "time": "8:00"
+    "time": "9:00"
   },
   {
     "name": "PR",
     "day": "TUE",
-    "time": "7:30"
+    "time": "6:30"
   },
   {
-    "name": "History",
+    "name": "Devcade",
     "day": "TUE",
     "time": "8:00"
   },
   {
-    "name": "History Discussion",
-    "day": "TUE",
-    "time": "8:30"
+    "name": "IMPS",
+    "day": "WED",
+    "time": "6:00"
   },
   {
-    "name": "Social",
+    "name": "Evals",
+    "day": "WED",
+    "time": "7:00"
+  },
+  {
+    "name": "History",
     "day": "WED",
     "time": "7:30"
   },
   {
-    "name": "Eboard",
+    "name": "History Discussion",
+    "day": "WED",
+    "time": "8:00"
+  },
+  {
+    "name": "ImagineRIT",
     "day": "WED",
     "time": "9:00"
   },
   {
-    "name": "R&D",
+    "name": "Social",
     "day": "THU",
     "time": "7:00"
   },

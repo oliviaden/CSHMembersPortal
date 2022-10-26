@@ -162,6 +162,16 @@
         "icon": "material:directions-car"
       },
       {
+        "name": "Slate",
+        "href": "https://slate.csh.rit.edu/",
+        "icon": "fa:calendar-check-o"
+      },
+      {
+        "name": "LetMeIn",
+        "href": "https://letmein.csh.rit.edu",
+        "icon": "material:notifications"
+      },
+      {
         "name": "Bucket",
         "href": "https://bucket.csh.rit.edu",
         "icon": "material:folder-special"
@@ -170,6 +180,11 @@
         "name": "External Accounts Connector",
         "href": "https://eac.csh.rit.edu",
         "icon": "material:extension"
+      },
+      {
+	"name": "Resumes",
+	"href": "https://resumes.csh.rit.edu",
+	"icon": "fa:file-text"
       }
     ]
   },
@@ -257,6 +272,11 @@
         "name": "PostgreSQL Admin",
         "href": "https://webpgsql.csh.rit.edu",
         "icon": "material:storage"
+      },
+      {
+        "name": "Weird Clock",
+        "href": "https://weird-clock.csh.rit.edu",
+        "icon": "color-icons:trademark"
       }
     ]
   },
@@ -273,7 +293,7 @@
       },
       {
         "name": "CSH Floor Plan",
-        "href": "https://facilities.rit.edu/campus/floorplans/buildings/043/3.pdf"
+        "href": "https://www.rit.edu/facilitiesmanagement/sites/rit.edu.facilitiesmanagement/files/restricted/043-3.pdf"
       }
     ]
   }
